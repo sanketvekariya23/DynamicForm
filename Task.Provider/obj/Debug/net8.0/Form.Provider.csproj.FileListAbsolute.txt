@@ -1,0 +1,14 @@
+D:\sanket\Task\Task.Provider\bin\Debug\net8.0\Form.Provider.deps.json
+D:\sanket\Task\Task.Provider\bin\Debug\net8.0\Form.Provider.runtimeconfig.json
+D:\sanket\Task\Task.Provider\bin\Debug\net8.0\Form.Provider.dll
+D:\sanket\Task\Task.Provider\bin\Debug\net8.0\Form.Provider.pdb
+D:\sanket\Task\Task.Provider\obj\Debug\net8.0\Form.Provider.csproj.AssemblyReference.cache
+D:\sanket\Task\Task.Provider\obj\Debug\net8.0\Form.Provider.GeneratedMSBuildEditorConfig.editorconfig
+D:\sanket\Task\Task.Provider\obj\Debug\net8.0\Form.Provider.AssemblyInfoInputs.cache
+D:\sanket\Task\Task.Provider\obj\Debug\net8.0\Form.Provider.AssemblyInfo.cs
+D:\sanket\Task\Task.Provider\obj\Debug\net8.0\Form.Provider.csproj.CoreCompileInputs.cache
+D:\sanket\Task\Task.Provider\obj\Debug\net8.0\Form.Provider.dll
+D:\sanket\Task\Task.Provider\obj\Debug\net8.0\refint\Form.Provider.dll
+D:\sanket\Task\Task.Provider\obj\Debug\net8.0\Form.Provider.pdb
+D:\sanket\Task\Task.Provider\obj\Debug\net8.0\Form.Provider.genruntimeconfig.cache
+D:\sanket\Task\Task.Provider\obj\Debug\net8.0\ref\Form.Provider.dll

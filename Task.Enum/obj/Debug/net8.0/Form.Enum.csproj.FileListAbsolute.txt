@@ -1,0 +1,14 @@
+D:\sanket\Task\Task.Enum\bin\Debug\net8.0\Form.Enum.deps.json
+D:\sanket\Task\Task.Enum\bin\Debug\net8.0\Form.Enum.runtimeconfig.json
+D:\sanket\Task\Task.Enum\bin\Debug\net8.0\Form.Enum.dll
+D:\sanket\Task\Task.Enum\bin\Debug\net8.0\Form.Enum.pdb
+D:\sanket\Task\Task.Enum\obj\Debug\net8.0\Form.Enum.csproj.AssemblyReference.cache
+D:\sanket\Task\Task.Enum\obj\Debug\net8.0\Form.Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\sanket\Task\Task.Enum\obj\Debug\net8.0\Form.Enum.AssemblyInfoInputs.cache
+D:\sanket\Task\Task.Enum\obj\Debug\net8.0\Form.Enum.AssemblyInfo.cs
+D:\sanket\Task\Task.Enum\obj\Debug\net8.0\Form.Enum.csproj.CoreCompileInputs.cache
+D:\sanket\Task\Task.Enum\obj\Debug\net8.0\Form.Enum.dll
+D:\sanket\Task\Task.Enum\obj\Debug\net8.0\refint\Form.Enum.dll
+D:\sanket\Task\Task.Enum\obj\Debug\net8.0\Form.Enum.pdb
+D:\sanket\Task\Task.Enum\obj\Debug\net8.0\Form.Enum.genruntimeconfig.cache
+D:\sanket\Task\Task.Enum\obj\Debug\net8.0\ref\Form.Enum.dll
